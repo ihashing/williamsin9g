@@ -1,27 +1,27 @@
 {
-  "short_name": "@andylamgot",
-  "name": "@andylamgot",
+  "short_name": "@williamsin9g",
+  "name": "@williamsin9g",
   "theme_color": "#4A90E2",
   "background_color": "#F7F8F9",
   "display": "standalone",
   "icons": [
     {
-      "src": "andylamgot_48.png",
+      "src": "williamsin9g_48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "andylamgot_96.png",
+      "src": "williamsin9g_96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "andylamgot_144.png",
+      "src": "williamsin9g_144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "andylamgot_192.png",
+      "src": "williamsin9g_192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
